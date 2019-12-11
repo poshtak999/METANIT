@@ -157,3 +157,9 @@ h1,h2,h3 {
   font-size: 14px;
   color: #ccc;
 }
+.code-box {
+  width: 100%;
+  border: 2px solid blue;
+  padding: 5px;
+  border-radius: 5px;
+}
